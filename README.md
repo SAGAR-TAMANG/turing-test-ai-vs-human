@@ -30,7 +30,7 @@
 
 ## Screenshots
 
-| Conversation view | Mobile responsive |
+| Index Page | Conversation view  |
 | :---------------: | :---------------: |
 | <img src="static/img/ss.webp" alt="screenshot chat desktop" /> | <img src="static/img/ss2.webp" alt="screenshot chat mobile" /> |
 
